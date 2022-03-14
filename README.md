@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @RobertBogdanik
-- 🌱 I’m currently learning Vue.js, React.js
+- 🌱 I’m currently learning Nest.js, Next.js
