@@ -14,6 +14,6 @@ Here are some of the technologies I work with:
 
 ## Contact
 
-If you'd like to get in touch with me, you can reach out to me here on GitHub or use other contact methods such as email (robert@bogdanik.pl).
+If you'd like to get in touch with me, you can contact such as email (robert@bogdanik.pl).
 
 Thank you for visiting my GitHub profile. I hope you find it interesting, and if you have any questions or collaboration ideas, don't hesitate to reach out!
